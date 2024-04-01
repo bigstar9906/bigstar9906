@@ -37,6 +37,8 @@
        style="height : auto; margin-left : 10px; margin-right : 10px;" />
 <img src="https://img.shields.io/badge/TOPCIT 수준3-859AAA?style=flat-square&logo=ReadTheDocs&logoColor=white"
        style="height : auto; margin-left : 10px; margin-right : 10px;" />
+<img src="https://img.shields.io/badge/SQLD-859AAA?style=flat-square&logo=ReadTheDocs&logoColor=white"
+       style="height : auto; margin-left : 10px; margin-right : 10px;" />
        
 ## :film_projector: 프로젝트       
 - 👨‍🎓[런스팀에듀케이션 - CSLMS (LMS 서비스 개발)]
