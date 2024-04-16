@@ -43,6 +43,7 @@
 ## :film_projector: 프로젝트       
 - 👨‍🎓[런스팀에듀케이션 - CSLMS (LMS 서비스 개발)]
 - 👨‍🎓[과사람학원 - Report Page 리팩토링]
+- 🏤[디지털 하나로 출석 알리미](https://github.com/bigstar9906/HanaroAttendAlimi)
 
 ## :school: 학교 프로젝트
 - 👄[All-Bareumi : 어린이 발음 교정/학습 도우미](https://github.com/All-Bareumi)
