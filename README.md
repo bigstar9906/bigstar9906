@@ -52,6 +52,9 @@
 - 🎨[색칠쏙쏙 : TorchVision으로 색칠공부하기](https://github.com/SsokSsok-CAU)
 - 🐍[SnakeGame : 오픈소스SW프로젝트](https://github.com/Raoun4136/CAU_OSS_2022)
 
+## :bank: 디지털 하나로 프로젝트
+- 🎙[뱅크시 : 음성인식 기반 뱅킹 서비스](https://github.com/BangCrush)
+
 
 
 ## :calendar: 이력
